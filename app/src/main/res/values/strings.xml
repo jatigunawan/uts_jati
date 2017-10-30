@@ -1,0 +1,67 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Menu Cafe</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Harga</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="filler_text">Filosofi Kopi adalah sebuah buku fiksi karya Dewi Lestari yang akrab dipanggil dengan nama Dee. Selain Filosofi Kopi, karya lain Dee adalah Supernova, Rectoverso, dan Perahu Kertas. Melalui buku Filosofi Kopi ini, Dee ingin menghadirkan bagaimana perjuangan seorang yang memiliki hobi terhadap kopi dan memaknai kopi dari sudut pandang kehidupan. Buku ini dianugerahi sebagai karya sastra terbaik tahun 2006 oleh majalah Tempo .
+        Pada tahun yang sama, Filosofi Kopi juga berhasil dinobatkan menjadi 5 Besar Khatulistiwa Award kategori fiksi.</string>
+
+    <string-array name="sports_titles">
+        <item>Kopi Hitam</item>
+        <item>Batagor</item>
+        <item>Batagor Bandung</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Kuning</item>
+        <item>Jus Tea</item>
+        <item>Donat Madu</item>
+        <item>Pemempek</item>
+        <item>Sambel Baladoh</item>
+        <item>Roti Keju</item>
+        <item>Kopi Nikmat</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Rp. 10.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 30.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 50.000</item>
+        <item>Rp. 60.000</item>
+        <item>Rp. 70.000</item>
+        <item>Rp. 80.000</item>
+        <item>Rp. 90.000</item>
+        <item>Rp. 110.000</item>
+        <item>Rp. 120.000</item>
+
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
